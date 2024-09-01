@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">appGym</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="menu_home">Home</string>
+    <string name="actividad">A que actividad te gustaria apuntarte?</string>
+    <string name="bodyPumb">Body Pumb</string>
+    <string name="bodyCombat">Body Combat</string>
+    <string name="cicling">Cicling</string>
+    <string name="yoga">Yoga</string>
+    <string name="pilates">Pilates</string>
+    <string name="tonificacion">Tonificación</string>
+    <string name="zumba">Zumba</string>
+    <string name="search">Search activitie</string>
+    <string name="reserva">Mis reservas</string>
+    <string name="favorito">Mis favoritos</string>
+    <string name="bienvenido">¡Bienvenido al!</string>
+    <string name="DondeEstamos">Nos ubicamos en Morilla Stree 6, en el increible pueblo de Lighting Ridge!
+    (Canguros no Incluidos)</string>
+    <string name="QuienesSomos">Gimnasio nuevo con la última tecnología, app completa y gratuita, acceso a tan solo 1 en todo el mundo!!!
+        ¡Apúntate a GigaGym! Haz del fitness un básico en tu vida y comprobarás los múltiples beneficios que tiene la práctica del ejercicio físico de manera continua.
+        Somos accesibles, estamos muy lejos de ti y nos encantaría que vinieras a entrenar con nosotros. Se un GigaChad! </string>
+
+
+</resources>

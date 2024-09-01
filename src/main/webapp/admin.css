@@ -1,0 +1,63 @@
+* {
+
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
+h1, h2 {
+    color: #000000;
+}
+
+.form-curso, .form-usuario {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.tabla-usuario {
+    width: 100%;
+    border: 1px solid #000000;
+    margin-bottom: 20px;
+}
+
+
+.tabla-usuario th, .tabla-usuario td {
+    width: 25%;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.tabla-curso {
+    width: 100%;
+    border: 1px solid #000000;
+    margin-bottom: 20px;
+}
+
+.tabla-curso th, .tabla-curso td {
+    width: 30%;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+
